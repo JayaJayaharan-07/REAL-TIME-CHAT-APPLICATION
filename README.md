@@ -44,3 +44,4 @@ USAGE:
 
 *OUTPUT*
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/f2096928-d110-4970-8708-92b5b9e3d29e" />
